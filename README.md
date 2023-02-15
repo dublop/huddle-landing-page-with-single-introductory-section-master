@@ -19,8 +19,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-O_9YTuRZZB](https://www.frontendmentor.io/solutions/qr-code-component-O_9YTuRZZB)
-- Live Site URL: [https://dublop.github.io/qr-code-component/](https://dublop.github.io/qr-code-component/)
+- Live Site URL: [https://dublop.github.io/huddle-landing-page-with-single-introductory-section-master/](https://dublop.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
